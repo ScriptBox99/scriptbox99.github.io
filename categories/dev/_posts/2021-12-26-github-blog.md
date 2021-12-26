@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "GitHub blog with Jekyll has started..."
-permalink: /dev/
+permalink: /dev/github-blog-started
 ---
 
 # GitHub blog with Jekyll has started...
