@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Very 1st Post..."
+permalink: /dev/
 ---
 
 # GitHub blog with Jekyll
