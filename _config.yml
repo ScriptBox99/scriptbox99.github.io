@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Script Log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Script"
+name                     : "MAX"
 description              : "I am a C# developer. I am focusing on Blazor for web, mobile, hybrid app now."
 url                      : "https://scriptbox99.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
