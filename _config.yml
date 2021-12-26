@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Script Log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "MAX"
+name                     : "Script"
 description              : "I am a C# developer. I am focusing on Blazor for web, mobile, hybrid app now."
 url                      : "https://scriptbox99.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
