@@ -3,7 +3,7 @@ layout: single
 title:  "GitHub blog with Jekyll has started..."
 permalink: /dev/github-blog-started
 categories:
-  - Dev
+  - dev
 ---
 
 GitHub blog with Jekyll has started...
